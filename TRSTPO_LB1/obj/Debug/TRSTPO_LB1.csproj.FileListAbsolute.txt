@@ -1,0 +1,7 @@
+C:\Users\CWorld\source\repos\TRSTPO_LB1\TRSTPO_LB1\bin\Debug\TRSTPO_LB1.exe.config
+C:\Users\CWorld\source\repos\TRSTPO_LB1\TRSTPO_LB1\bin\Debug\TRSTPO_LB1.exe
+C:\Users\CWorld\source\repos\TRSTPO_LB1\TRSTPO_LB1\bin\Debug\TRSTPO_LB1.pdb
+C:\Users\CWorld\source\repos\TRSTPO_LB1\TRSTPO_LB1\obj\Debug\TRSTPO_LB1.csprojAssemblyReference.cache
+C:\Users\CWorld\source\repos\TRSTPO_LB1\TRSTPO_LB1\obj\Debug\TRSTPO_LB1.csproj.CoreCompileInputs.cache
+C:\Users\CWorld\source\repos\TRSTPO_LB1\TRSTPO_LB1\obj\Debug\TRSTPO_LB1.exe
+C:\Users\CWorld\source\repos\TRSTPO_LB1\TRSTPO_LB1\obj\Debug\TRSTPO_LB1.pdb
